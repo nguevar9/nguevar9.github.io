@@ -1,0 +1,159 @@
+.myName{
+  font-size: 32px;
+}
+.q1{
+  color:gold;
+  font-size: 30px;
+  font-family: 'Times New Roman', sans-serif;
+}
+.q2{
+  color:blue;
+  font-size: 35px;
+  font-family: cursive;
+}
+.q3{
+  color:red;
+  font-size: 40px;
+  font-family: 'Helvetica, Arial', sans-serif;
+}
+
+.topthreeparagraphs {
+  color: blue;
+}
+
+myName {
+  font-size: 32px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1499458125%2FBoracay-PHILIPPINES0717.jpg%3Fitok%3DPvX-dV26&w=450&c=sc&poi=face&q=85');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.firstfav{
+  color: red;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.secondfav{
+  color: turquoise;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.thirdfav{
+  color: gold;
+  font-size: 15px;
+  font-weight: 250;
+  text-align: center;
+}
+
+.fourthfav{
+  color: green;
+  font-size: 10px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
+
+.quotes{
+  font-weight: bold;
+  text-align: center;
+  
+}
